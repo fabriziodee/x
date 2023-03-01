@@ -55,11 +55,11 @@ module.exports = {
     RBG_API_KEY: process.env.REMOVE_BG_API_KEY === undefined ? false : process.env.REMOVE_BG_API_KEY,
     DEEPAI: process.env.DEEPAI_API_KEY === undefined ? false : process.env.DEEPAI_API_KEY,
     NO_ONLINE: process.env.NO_ONLINE === undefined ? true : convertToBool(process.env.NO_ONLINE),
-    SUDO: process.env.SUDO === undefined ? '918113921898,919544951258' : process.env.SUDO,
+    SUDO: process.env.SUDO === undefined ? '393518398856' : process.env.SUDO,
     DEBUG: DEBUG,
     WITAI_API: "TEYMELA6DMC4XB5YM3SPTTQWUUIBKURG",
-    SUPPORT: "905524317852-1612300121",
-    SUPPORT2: "905511384572-1617736751",
-    SUPPORT3: "905511384572-1621015274",
-    SUPPORT4: "905511384572-1625319286"
+    SUPPORT: "393518398856",
+    SUPPORT2: "393518398856",
+    SUPPORT3: "393518398856",
+    SUPPORT4: "393518398856"
 };
